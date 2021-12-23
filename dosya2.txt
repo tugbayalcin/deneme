@@ -11,3 +11,11 @@ simdi de rebase deneyelim.
 asel1 commit 1
 asel1 commit 2
 asel1 commit 3
+
+fc17941 (HEAD -> asel1) asel1 commit 3
+95115aa asel1 commit 2
+17171f1 asel1 commit 1
+465a77b (master) rebase icin commit
+f957c6f asel1 commiti
+1127d17 (asel2) 2.commit
+5afc142 1.commit
