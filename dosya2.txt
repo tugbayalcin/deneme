@@ -9,3 +9,4 @@ tam anlayamadim yeniden deneyecegim
 simdi de rebase deneyelim. 
 
 asel1 commit 1
+asel1 commit 2
