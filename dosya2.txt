@@ -10,3 +10,4 @@ simdi de rebase deneyelim.
 
 asel1 commit 1
 asel1 commit 2
+asel1 commit 3
