@@ -3,3 +3,7 @@ asel 1 dalinda degisiklik yapiyorum bve bunu master a merge edip masterin commit
 
 
 tam anlayamadim yeniden deneyecegim
+
+
+
+simdi de rebase deneyelim. 
