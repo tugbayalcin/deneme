@@ -1,9 +1,5 @@
-asel 1 dalinda degisiklik yapiyorum bve bunu master a merge edip masterin commit historysine bakacagim. 
+stash icin denemeler 
 
 
 
-tam anlayamadim yeniden deneyecegim
-
-
-
-simdi de rebase deneyelim. 
+deneme 2 
