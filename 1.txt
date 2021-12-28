@@ -12,6 +12,7 @@ kögoşrsıjgşsr54n93684nh38n8
 
 mkvd
 
+tugba calismaini bugun bitirdi. commitledi daha push+merge yapmadi.Emrenin masterdaki commitlerini pull+merge yapicak
 
 emre 3 gun once kodlarini commitledi+ pushladi+ mergeledi
 
