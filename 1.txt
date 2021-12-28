@@ -17,4 +17,5 @@ tugba calismaini bugun bitirdi. commitledi daha push+merge yapmadi.Emrenin maste
 emre 3 gun once kodlarini commitledi+ pushladi+ mergeledi
 
 
+emre kodlarini bugun yazdi commit+push+pullrequest+mergeledi.
 
